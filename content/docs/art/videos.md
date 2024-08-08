@@ -1,5 +1,5 @@
 ---
-title: Films
+title: Cinema
 weight: 2
 ---
 # Films in Which Denis Is Featured
