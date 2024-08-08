@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/roboto-v27-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-v27-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+       url('fonts/roboto-v27-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-v27-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-mono-regular - latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/roboto-mono-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-mono-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* computer-modern-serif, LaTeX font */
+@font-face {
+  font-family: 'Computer Modern';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+       url('fonts/cm-serif.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Computer Modern Bold';
+  font-style: bold;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+       url('fonts/cm-serif-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Computer Modern Italic';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+       url('fonts/cm-serif-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Computer Modern Bold Italic';
+  font-style: bold italic;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+       url('fonts/cm-serif-bold-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Computer Modern Sans Bold';
+  font-style: bold;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+       url('fonts/cm-sans-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Computer Modern Sans';
+  font-style: bold;
+  font-weight: 400;
+  font-display: swap;
+  src: 
+       url('fonts/cm-sans.woff') format('woff');
+}
+
+//
+// @font-face{
+//   font-family: "JetBrains Mono", monospace;
+//   font-optical-sizing: auto;
+//   font-weight: 400;
+//   font-style: normal;
+//   src:
+//   url('fonts/JetBrainsMono-VariableFont_wght.ttf') format('ttf');
+//
+// }
+/*compuer-modern-concrete, for "code"*/
+@font-face{
+  font-family: 'Computer Modern Concrete';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+      url('fonts/cm-concrete.woff') format('woff');
+}
+
+@font-face{
+  font-family: 'Cabin Sketch';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+      url('fonts/CabinSketch-Regular.otf') format('opentype');
+}
+
+@font-face{
+  font-family: 'Cabin Sketch Bold';
+  font-style: bold;
+  font-weight: 400;
+  font-display: swap;
+  src:
+      url('fonts/CabinSketch-Bold.otf') format('opentype');
+}
+
+
+// @font-face{
+//   font-family: 'Jost';
+//   font-style: normal;
+//   font-optical-sizing: auto;
+//   font-weight: 400;
+//   src:
+//       url('fonts/Jost-VariableFont_wght.ttf') format('truetype');
+// }
+//
+
+
+body {
+  font-family: 'Computer Modern', 'Computer Modern Bold', 'Computer Modern Italic';
+}
+
+code {
+  font-family: 'JetBrains Mono', serif;
+}
+
+.book-menu {
+  font-family: 'Jost', sans-serif;
+}
+
+.book-brand {
+  font-family: 'Cabin Sketch Bold', serif;
+}
+
+.title-like {
+  font-family: 'Cabin Sketch Bold', serif;
+}
+
+.book-toc {
+  font-family: 'Jost', sans-serif;
+}
+
+.book-header {
+  font-family: 'Jost', sans-serif;
+}
+ 
+.return-link {
+  font-family: 'Jost', sans-serif;
+}
+
+.cur_title {
+  font-family: 'Cabin Sketch', serif
+}
+
+.book-footer {
+  font-family: 'Jost';
+}
+
+.toc-title {
+  font-family: 'Jost', sans-serif;
+}

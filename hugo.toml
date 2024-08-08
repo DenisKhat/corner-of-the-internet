@@ -1,0 +1,18 @@
+baseURL = 'https://dkhatnyuk.com'
+languageCode = 'en-ca'
+title = "Denis' Corner"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$','$']]
+  [markup.goldmark.renderer]
+    unsafe=true
+    # xhtml=true
+[params]
+  math = true
+

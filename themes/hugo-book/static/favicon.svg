@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="151.13"
+   inkscape:export-ydpi="151.13"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.1358089"
+     inkscape:cx="55.493906"
+     inkscape:cy="-4.8078421"
+     inkscape:window-width="1896"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.558088,-57.878009)">
+    <g
+       id="g5"
+       transform="matrix(0.37706335,0,0,0.37706335,22.750375,38.178221)">
+      <path
+         style="font-weight:800;font-size:31.483px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';stroke-width:2.62358"
+         d="m 62.933529,79.727211 h 7.304056 l -8.405961,-12.404302 0.09445,1.070422 7.807784,-10.515322 h -6.579947 l -7.55592,10.420873 z m -12.530234,0 h 5.603974 V 57.878009 h -5.603974 z"
+         id="path3" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.243801"
+         d="m 36.614207,62.839396 v 11.900689 h 2.662889 c 3.459135,0 5.353376,-2.043585 5.353376,-5.769928 0,-3.846546 -2.168504,-6.130761 -5.819811,-6.130761 z"
+         id="path5" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.268172"
+         d="m 40.527543,57.878272 c 6.24133,0.687287 9.869631,4.477946 9.869631,10.466519 0,6.378909 -4.184407,10.733708 -10.684981,11.383337 H 50.613048 V 57.878272 Z"
+         id="path4" />
+    </g>
+  </g>
+</svg>
