@@ -51,7 +51,7 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true" 
       - name: Checkout
         uses: actions/checkout@v4
-      - run: ls
+      - run: ls themes
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -61,7 +61,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --theme hugo-site \
+            --theme hugo-book \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
