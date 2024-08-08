@@ -1,5 +1,5 @@
 ---
-title: Poetry
+title: Cinema
 weight: 1
 ---
 # Poems Written By Denis
@@ -88,18 +88,48 @@ The details have gone fuzzy on me, but from what I can recall, I had used a lot 
 
 {{< /details >}}
 
-## The Wayfarer
-A cool breeze in the air,  
-crashing waves by the shore,  
-A new kind of place,  
-it begs me to explore.
+<!-- ## The Wayfarer -->
+<!-- A cool breeze in the air,   -->
+<!-- crashing waves by the shore,   -->
+<!-- A new kind of place,   -->
+<!-- it begs me to explore. -->
+<!---->
+<!-- ... -->
+<!---->
+<!-- A familiar place,   -->
+<!-- like I've been here before... -->
+<!---->
+<!-- ... -->
+<!---->
+<!-- A familiar place,   -->
+<!-- yet I'm left wanting more. -->
 
-...
+## As We Fall
 
-A familiar place,  
-like I've been here before...
+Life, a journey with no end ever in sight  
+Our only fear: God won’t hold our favour  
+The world stricken down with unholy light  
+Civilization won’t have a savior  
 
-...
+Rivers, mountains, and valleys fade away  
+All we love, vanished into thin air  
 
-A familiar place,  
-yet I'm left wanting more.
+Calm greens and deep blues turn to murky browns  
+It seems that our Earth, God thought to dismiss  
+The soil where we stand, beneath us breaks down  
+Now starts the fall, down the endless abyss  
+
+The choice is yours on how you shall spend  
+The silent moment right before the end.  
+
+{{< details title="Additional Commentary" open=true >}}
+![a sublime sunset picture](/images/sunset.jpg)
+*A sunset over a cloudy sky, on a walk by Lake Ontario* \
+***Photographer:*** *Denis Khatnyuk*  
+
+---
+
+Reading this poem back, wow is it edgy. I wrote it upon entering the 9th grade, and by its style, you can definetly tell. Thought it would be fun to keep it as a reference, since it is the oldest? piece of writing which I was able to find.
+
+{{< /details >}}
+
