@@ -34,4 +34,4 @@ Stylistically, I chose to try and present this website in a similar style to tha
 
 ---
 
-I've also got a minecraft server! : [minecraft.dkhatnyuk.ca](http://minecraft.dkhatnyuk.ca:8123)
+*"Don't Shoot the Fly With a Bazooka"*
