@@ -8,7 +8,7 @@ summary : "My Small Game For Worldbuilding, Space themed Animal Guessing Game"
 Earth Insider is a game about doing research for a very mysterious group of hungry alien mushroom people!
 I might clean this page up and make it nicer later, just putting this up here now for reference.
 
-# Instructions
+## Instructions
 Your goal is to guess the animal. Every second guess you get wrong, more information about the animal gets revealed, as tracked by the bar on the left.
 Getting it wrong after guessing the animal with part of its name revealed means you lose. Guessing correct means you win!
 
@@ -23,18 +23,18 @@ The game is half baked, as I was on a time crunch, but I'm still quite proud of 
 
 Finally, there could be more flavoring in the world... perhaps animals have a yummyness rating and you want to give true information about all bad to eat animals (say like poisonous frogs) while giving false info about tasty animals... Not sure if that would be fun though.
 
-# Credits
+## Credits
 
-## Images
+### Images
 Background for Menu: Bruno Dalagnol, "Space Background Parralax" - godotshaders.com
 Earth render for Menu: NinjaOtter, "Animated Pixel Art Shader" - godotshaders.com
 Mushroom Charachter: xadartstudio
 
-## Fonts
+### Fonts
 Handwriting Font by athy!! - daFont.com
 Terminal F4 Font by Daymarius
 
-## Data
+### Data
 Animal data was scraped off of azanimals.com.
 
 NOTICE: This project is non commercial. I made it for fun, originally as a project for a course.
