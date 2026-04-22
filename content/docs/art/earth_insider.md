@@ -17,7 +17,7 @@ Getting it wrong after guessing the animal with part of its name revealed means 
 ## TODO: 
 Balancing - I just scraped all the animals, I should pick a select number of them so that only ones people have a chance of knowing appear.
 
-Also, I don't like the guessing system as it stands. I think having it be like (Spellify)[https://edhrec.com/games/spellify], where typing a letter reveals a part of the description/name, and the goal is to guess in as few letters as possible, would be more fun.
+Also, I don't like the guessing system as it stands. I think having it be like [Spellify](https://edhrec.com/games/spellify), where typing a letter reveals a part of the description/name, and the goal is to guess in as few letters as possible, would be more fun.
 
 The game is half baked, as I was on a time crunch, but I'm still quite proud of the work! Check out the fullscreen version [here](/earth_insider/EarthInsider.html).
 
